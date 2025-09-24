@@ -7,7 +7,7 @@ class Graficador:
         self.funciones.append(expr)
 
     def graficar(self):
-        for y in range(10, -11, -1):       # de 10 a -10
+        for y in range(10, -11, -1):       
             linea = ""
             for x in range(self.xmin, self.xmax+1):
                 simbolo = " "
