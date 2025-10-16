@@ -36,7 +36,7 @@ class NewtonRaphson:
 if __name__ == "__main__":
     import math
 
-    print("MÉTODO DE NEWTON-RAPHSON")
+    print("METODO DE NEWTON-RAPHSON")
 
     f_expr = input("f(x) = ")
     df_expr = input("f'(x) = ")
